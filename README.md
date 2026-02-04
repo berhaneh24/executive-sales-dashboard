@@ -17,7 +17,7 @@ Built to help leaders quickly answer:
 - Primary business date: Order Date
 
 ## Technical Skills Demonstrated
-- **Power BI**: Executive dashboards, drill-through navigation, slicers, tooltip page
+- **Power BI**: Executive dashboards, self-service navigation, drill-through analysis, tooltip context
 - **DAX**: Time intelligence, YoY growth, defensive measures
 - **Data Modeling**: Date table, relationships, measures governance
 - **UX / BI Design**: Executive-first layout, restrained conditional formatting
