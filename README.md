@@ -46,16 +46,20 @@ Dashboard preview screenshots provided below.
 ## Screenshots
 
 ### Executive Overview
+
 ![Executive Overview](assets/executive_overview.png)
 
-### Map Tooltip (State Context)
-![Map Tooltip](assets/map_tooltip.png)
+### Product Detail (Drill-through Example)
 
-### Drill-through to Product Detail
+![Product Detail](assets/product_detail.png)
+
+### Drill-through Interaction
+
 ![Drill-through](assets/drillthrough_menu.png)
 
-### Product Detail (Filtered)
-![Product Detail](assets/product_detail.png)
+### Tooltip Example (Map Context)
+
+![Map Tooltip](assets/map_tooltip.png)
 
 
 ## Connection to Real Work
