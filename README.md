@@ -38,13 +38,25 @@ Built to help leaders quickly answer:
 - YoY Revenue Growth %
 
 ## Live Dashboard
-🚧 Coming soon — will be published to Power BI Service after final layout polish.
-[Live Link will go here]
+
+Power BI `.pbix` file available upon request.  
+Dashboard preview screenshots provided below.
+
 
 ## Screenshots
-🚧 Coming soon — screenshots will be added after publishing.
-- Executive Overview page
-- Product Detail (Product Performance) drill-through example
+
+### Executive Overview
+![Executive Overview](assets/executive_overview.png)
+
+### Map Tooltip (State Context)
+![Map Tooltip](assets/map_tooltip.png)
+
+### Drill-through to Product Detail
+![Drill-through](assets/drillthrough_menu.png)
+
+### Product Detail (Filtered)
+![Product Detail](assets/product_detail.png)
+
 
 ## Connection to Real Work
 Designed to mirror how BI teams deliver executive reporting:
