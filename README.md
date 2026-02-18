@@ -39,8 +39,9 @@ Built to help leaders quickly answer:
 
 ## Live Dashboard
 
-Power BI `.pbix` file available upon request.  
-Dashboard preview screenshots provided below.
+Power BI (.pbix) file available upon request.
+Interactive navigation demonstrated in the screenshots below.
+
 
 
 ## Screenshots
